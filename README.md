@@ -1,3 +1,9 @@
+>[!WARNING]
+>This is a fork of the repository according to **version 3.2b2**. Minor edits have been implemented in this fork to pair well with the pelicun_2_brightway2 library. 
+
+
+
+
 <p align="center">
 	<img src="https://raw.githubusercontent.com/NHERI-SimCenter/pelicun/master/doc/source/_static/pelicun-Logo-white.png"
 		alt="pelicun" align="middle" height="200"/>
@@ -46,21 +52,7 @@ Detailed documentation of the available methods and their use is available at ht
 4. You can trust it. Every function in `pelicun` is tested after every commit. See the Travis-CI and Coveralls badges at the top for more info.
 5. You can extend it. If you have other methods that you consider better than the ones we already offer, we encourage you to fork the repo, and extend `pelicun` with your approach. You do not need to share your extended version with the community, but if you are interested in doing so, contact us and we are more than happy to merge your version with the official release.
 
-## Installation
 
-`pelicun` is available at the [Python Package Index (PyPI)](https://pypi.org/project/pelicun/). You can simply install it using `pip` as follows:
-
-```shell
-pip install pelicun
-```
-
-If you are interested in using an earlier version, you can install it with the following command: 
-
-```shell
-pip install pelicun==2.6.0
-```
-
-Note that 2.6.0 is the last minor version before the v3.0 release. Other earlier versions can be found [here](https://pypi.org/project/pelicun/#history).
 
 ## Documentation and usage examples
 
@@ -79,6 +71,3 @@ Detailed release notes for all versions are available in [CHANGELOG.md](CHANGELO
 
 This material is based upon work supported by the National Science Foundation under Grants No. 1612843 2131111. Any opinions, findings, and conclusions or recommendations expressed in this material are those of the authors and do not necessarily reflect the views of the National Science Foundation.
 
-## Contact
-
-Adam Zsarnóczay, NHERI SimCenter, Stanford University, adamzs@stanford.edu
